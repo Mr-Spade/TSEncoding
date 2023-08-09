@@ -1,0 +1,10 @@
+.vscode/
+**/Datasets/
+**/*.csv
+**/*.eps
+**/*.png
+**/*.pkl
+!**/compare.csv
+!**/compare_text.csv
+**/delete_*
+**/*.zip
